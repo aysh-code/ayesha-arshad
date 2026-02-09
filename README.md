@@ -9,11 +9,24 @@ MERN • Django • FastAPI • AWS
 - Secure APIs
 - AI Analytics
 - RBAC Systems
-
+- 
 ## 📌 Featured Projects
-- Logistics AI Predictor
-- Secure Helpdesk Portal
-- IoT IDS System
+
+🔹 Logistics AI Predictor  
+Machine learning system for shipment cost forecasting & anomaly detection.
+
+🔹 Route Optimization System  
+AI-based route planning engine using logistics datasets for time & fuel efficiency.
+
+🔹 Secure Helpdesk Portal  
+RBAC-enabled MERN ticketing system with JWT authentication.
+
+🔹 IoT Intrusion Detection System  
+Anomaly-based IDS for IP/IoT networks.
+
+🔹 AI Chatbot Support System  
+NLP-powered chatbot for automated user query resolution.
+
   
 ## 🛠️ Tech Stack
 
