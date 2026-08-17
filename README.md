@@ -85,7 +85,7 @@ NLP-powered chatbot for automated user query handling, workflow assistance, and 
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: yourmail@gmail.com  
+- Email: arshadayesha67@gmail.com  
 
 ---
 
